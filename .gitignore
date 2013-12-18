@@ -1,0 +1,12 @@
+*~
+*.bak
+*.pyc
+*.swp
+*.egg-info
+*.ini
+*.db
+*.sqlite
+*.log
+__pycache__
+build/
+dist/
